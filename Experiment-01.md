@@ -39,6 +39,7 @@ Navigate to the option for creating a disk image.
 ### Step 2: Select Evidence Source
 
 Select **Physical Drive** and click **Next**.
+
 <img width="679" height="550" alt="image" src="https://github.com/user-attachments/assets/77c9589a-ad6b-4f1d-8fb8-bc126b6f9087" />
 
 ### Step 3: Select Physical Drive
